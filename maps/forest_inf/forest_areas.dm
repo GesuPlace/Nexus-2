@@ -89,13 +89,9 @@
 	base_turf = /turf/simulated/floor/asteroid/aired
 
 /area/forest/downground2
-	name = "\improper research"
+	name = "\improper medbay"
 	icon_state = "medbay"
 
-
-
-
-
-
-
-
+/area/forest/rnd
+	name = "\improper research"
+	icon_state = "research"
